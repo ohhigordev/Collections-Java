@@ -1,4 +1,4 @@
-package javacore.GenericClass;
+package javacore.List.GenericClass;
 
 /**
  Versão genérica da classe Box.
