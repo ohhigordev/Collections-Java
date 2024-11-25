@@ -52,7 +52,7 @@ public class ListaTarefa {
     }
 
     public static void main(String[] args) {
-        // Criando uma instancia da classe ListaDeTarefas;
+        // Criando uma instância da classe ListaDeTarefas;
         ListaTarefa l = new ListaTarefa();
 
         // Adicionando tarefas a lista;

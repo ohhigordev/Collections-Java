@@ -42,7 +42,7 @@ public class CatalogoLivros {
         return livrosPorIntervaloAnos;
     }
 
-    // Pesquisar livro por titulo
+    // Pesquisar livro por título
     public Livro pesquisarPorTitulo(String titulo){
         Livro livroPorTitulo = null;
         if(!LivroList.isEmpty()){
